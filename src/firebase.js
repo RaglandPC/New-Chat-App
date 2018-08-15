@@ -1,12 +1,12 @@
 import firebase from 'firebase';
 
 const config = {
-  apiKey: "AIzaSyB6nKgfRoqhTNJmXkVhU_iQRNyZUVWKI94",
-  authDomain: "chat-app-15ffa.firebaseapp.com",
-  databaseURL: "https://chat-app-15ffa.firebaseio.com",
-  projectId: "chat-app-15ffa",
-  storageBucket: "chat-app-15ffa.appspot.com",
-  messagingSenderId: "34562064796"
+  apiKey: "AIzaSyCe0-YQjJxSyysSj86kVElArgaPUsz3eJ4",
+  authDomain: "new-chat-app-da7e3.firebaseapp.com",
+  databaseURL: "https://new-chat-app-da7e3.firebaseio.com",
+  projectId: "new-chat-app-da7e3",
+  storageBucket: "new-chat-app-da7e3.appspot.com",
+  messagingSenderId: "320422827939"
 };
 
 firebase.initializeApp(config);
